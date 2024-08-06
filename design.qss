@@ -1,0 +1,18 @@
+""""""style for PyQt """"""
+QWidget {
+    background-color: ;
+    font-family: ;
+    font-size: ;
+}
+
+QPushButton {
+    background-color: ;
+    color: ;
+    border-radius: ;
+}
+
+QPushButton:hover {
+    background-color: ;
+    color: ;
+}
+
